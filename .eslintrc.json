@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "next/typescript",
+    "eslint-config-next",
+    "eslint:recommended",
+    "next/core-web-vitals",
+    "plugin:react/recommended",
+    "plugin:import/recommended",
+    "plugin:react-perf/recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "plugins": ["@typescript-eslint", "react", "import", "react-perf"],
+  "rules": {
+    "indent": ["error", 2, { "SwitchCase": 1 }],
+    "@typescript-eslint/array-type": ["error", { "default": "generic" }],
+    "linebreak-style": ["error", "unix"],
+    "react/react-in-jsx-scope": "off",
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "no-console": "error"
+  },
+  "ignorePatterns": [".husky/", ".next/", "node_modules/", "public/static", "src/assets/images", "src/assets/fonts", "*.json", "*.png", "*.jpg", "*.jpeg", "*.pdf"]
+}

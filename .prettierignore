@@ -1,0 +1,6 @@
+# Ignore artifacts
+dist
+public
+package-lock.json
+*.json
+husky

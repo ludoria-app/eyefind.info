@@ -1,0 +1,252 @@
+{
+  "headerMaxLength": 100,
+  "details": {
+    "tada": {
+      "description": "Begin a project",
+      "emoji": "🎉"
+    },
+    "release": {
+      "description": "Deploy stuff",
+      "emoji": "🚀"
+    },
+    "new version": {
+      "description": "Release / Version tags",
+      "emoji": "🔖"
+    },
+    "feat": {
+      "description": "A new feature",
+      "emoji": "✨"
+    },
+    "refactor": {
+      "description": "Refactor code",
+      "emoji": "♻️"
+    },
+    "fix": {
+      "description": "Fix a bug",
+      "emoji": "🐛"
+    },
+    "patch": {
+      "description": "Simple fix for a non-critical issue",
+      "emoji": "🩹"
+    },
+    "perf": {
+      "description": "Improve performance",
+      "emoji": "⚡️"
+    },
+    "revert": {
+      "description": "Revert changes",
+      "emoji": "⏪"
+    },
+    "style": {
+      "description": "Improve structure / format of the code",
+      "emoji": "🎨"
+    },
+    "ui": {
+      "description": "Add or update the UI and style files",
+      "emoji": "💄"
+    },
+    "remove": {
+      "description": "Remove code or files",
+      "emoji": "🔥"
+    },
+    "construction": {
+      "description": "Work in progress",
+      "emoji": "🚧"
+    },
+    "add": {
+      "description": "Add a dependency",
+      "emoji": "➕"
+    },
+    "upgrade": {
+      "description": "Upgrade dependencies",
+      "emoji": "⏫"
+    },
+    "downgrade": {
+      "description": "Downgrade dependencies",
+      "emoji": "⏬"
+    },
+    "config": {
+      "description": "Add or update configuration files",
+      "emoji": "🔧"
+    },
+    "script": {
+      "description": "Add or update development scripts",
+      "emoji": "🔨"
+    },
+    "typos": {
+      "description": "Fix typos",
+      "emoji": "✏️"
+    },
+    "text": {
+      "description": "Add or update text and literals",
+      "emoji": "💬"
+    },
+    "accessibility": {
+      "description": "Improve accessibility",
+      "emoji": "♿️"
+    },
+    "resources": {
+      "description": "Move or rename resources",
+      "emoji": "🚚"
+    },
+    "gitignore": {
+      "description": "Add or update a .gitignore file",
+      "emoji": "🙈"
+    },
+    "responsive": {
+      "description": "Work on responsive design",
+      "emoji": "📱"
+    },
+    "experiment": {
+      "description": "Perform experiments",
+      "emoji": "⚗️"
+    },
+    "docs": {
+      "description": "Add or update documentation",
+      "emoji": "📝"
+    },
+    "seo": {
+      "description": "Improve SEO",
+      "emoji": "🔍️"
+    },
+    "seeds": {
+      "description": "Add or update seed files",
+      "emoji": "🌱"
+    },
+    "merge": {
+      "description": "Merge branches",
+      "emoji": "🔀"
+    },
+    "test": {
+      "description": "Add or update tests",
+      "emoji": "✅"
+    },
+    "chore": {
+      "description": "Other changes that don't modify src or test files",
+      "emoji": "🤖"
+    },
+    "ci": {
+      "description": "Changes to CI configuration files and scripts",
+      "emoji": "👷"
+    },
+    "security": {
+      "description": "Fix security issues",
+      "emoji": "🔒️"
+    },
+    "secrets": {
+      "description": "Add or update secrets.",
+      "emoji": "🔐"
+    },
+    "linter": {
+      "description": "Fix compiler / linter warnings.",
+      "emoji": "🚨"
+    },
+    "internationalization": {
+      "description": "Internationalization and localization.",
+      "emoji": "🌐"
+    },
+    "alien": {
+      "description": "Update code due to external API changes.",
+      "emoji": "👽️"
+    },
+    "assets": {
+      "description": "Add or update assets.",
+      "emoji": "🍱"
+    },
+    "comments": {
+      "description": "Add or update comments in source code.",
+      "emoji": "💡"
+    },
+    "db": {
+      "description": "Perform database related changes.",
+      "emoji": "🗃️"
+    },
+    "ux": {
+      "description": "Improve user experience / usability.",
+      "emoji": "🚸"
+    },
+    "mocks": {
+      "description": "Mock things.",
+      "emoji": "🤡"
+    },
+    "egg": {
+      "description": "Add or update an easter egg.",
+      "emoji": "🥚"
+    },
+    "types": {
+      "description": "Add or update types.",
+      "emoji": "🛡️"
+    },
+    "animations": {
+      "description": "Add or update animations and transitions.",
+      "emoji": "💫"
+    },
+    "auth": {
+      "description": "Work on code related to authorization, roles and permissions.",
+      "emoji": "🛂"
+    },
+    "dead": {
+      "description": "Remove dead code.",
+      "emoji": "⚰️"
+    },
+    "business": {
+      "description": "Add or update business logic.",
+      "emoji": "👔"
+    },
+    "validation": {
+      "description": "Add or update code related to validation.",
+      "emoji": "🦺"
+    }
+  },
+  "types": [
+    "tada",
+    "release",
+    "new version",
+    "feat",
+    "refactor",
+    "ui",
+    "style",
+    "fix",
+    "patch",
+    "remove",
+    "construction",
+    "add",
+    "upgrade",
+    "downgrade",
+    "config",
+    "script",
+    "typos",
+    "text",
+    "accessibility",
+    "resources",
+    "gitignore",
+    "responsive",
+    "experiment",
+    "docs",
+    "seo",
+    "seeds",
+    "merge",
+    "perf",
+    "revert",
+    "test",
+    "chore",
+    "ci",
+    "security",
+    "secrets",
+    "linter",
+    "internationalization",
+    "alien",
+    "assets",
+    "comments",
+    "db",
+    "ux",
+    "mocks",
+    "egg",
+    "types",
+    "animations",
+    "auth",
+    "dead",
+    "business",
+    "validation"
+  ]
+}
