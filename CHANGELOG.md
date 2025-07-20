@@ -1,0 +1,22 @@
+# Changelog
+
+## 1.0.0-beta.0 (2025-07-20)
+
+* chore: 🔧 update release-it configuration to include pushRepo for deployment ([d2f0523](https://github.com/ludoria-app/eyefind.info/commit/d2f0523))
+* chore: 🤖 enhance ESLint configuration by adding new plugins and rules for better code quality ([51593f8](https://github.com/ludoria-app/eyefind.info/commit/51593f8))
+* feat: ✨ add axios and react-query libraries for API integration and state management ([4ae6ddb](https://github.com/ludoria-app/eyefind.info/commit/4ae6ddb))
+* feat: ✨ add custom hooks for random bleets, categories, and geolocation functionality ([8fc9b09](https://github.com/ludoria-app/eyefind.info/commit/8fc9b09))
+* feat: ✨ add environment variable validation to ensure required variables are set ([23a6c9f](https://github.com/ludoria-app/eyefind.info/commit/23a6c9f))
+* feat: ✨ add mock data for bleets and websites to enhance development experience ([c06be87](https://github.com/ludoria-app/eyefind.info/commit/c06be87))
+* feat: ✨ create eyefind.info homepage and search page ([df66bd7](https://github.com/ludoria-app/eyefind.info/commit/df66bd7))
+* feat: ✨ implement weather API integration with hooks and weather code utility ([a0c76eb](https://github.com/ludoria-app/eyefind.info/commit/a0c76eb))
+* feat: ✨ introduce ClientProviders component for React Query integration in the application layout ([40b69d0](https://github.com/ludoria-app/eyefind.info/commit/40b69d0))
+* secrets: 🔐 create .env.example file for environment variable configuration ([ae37e01](https://github.com/ludoria-app/eyefind.info/commit/ae37e01))
+* assets: 🍱 include placeholder and eyefind images for project assets ([39a3958](https://github.com/ludoria-app/eyefind.info/commit/39a3958))
+* style: 🎨 update global styles with new color themes and variables for improved design consistency ([7e4c7a9](https://github.com/ludoria-app/eyefind.info/commit/7e4c7a9))
+* script: 🔨 streamline release scripts in package.json for better clarity and usability ([af1e613](https://github.com/ludoria-app/eyefind.info/commit/af1e613))
+* add: 📦 update dependencies and release scripts in package.json and package-lock.json ([c75e5d0](https://github.com/ludoria-app/eyefind.info/commit/c75e5d0))
+* gitignore: 🙈 update .gitignore to include .env.example and .vscode ([11255f5](https://github.com/ludoria-app/eyefind.info/commit/11255f5))
+* remove: 🔥 delete unused SVG files from the public directory ([4415094](https://github.com/ludoria-app/eyefind.info/commit/4415094))
+* tada: 🎉 begin eyefind.info project ([122a7c5](https://github.com/ludoria-app/eyefind.info/commit/122a7c5))
+* Initial commit from Create Next App ([4bd7cde](https://github.com/ludoria-app/eyefind.info/commit/4bd7cde))
