@@ -1,7 +1,8 @@
 {
   "git": {
     "commitMessage": "release: 🚀 release v${version}",
-    "requireUpstream": false
+    "requireUpstream": false,
+    "pushRepo": "https://github.com/ludoria-app/eyefind.info.git"
   },
   "github": {
     "release": true
