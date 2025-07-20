@@ -7,12 +7,14 @@
     "plugin:react/recommended",
     "plugin:import/recommended",
     "plugin:react-perf/recommended",
-    "plugin:@typescript-eslint/recommended"
+    "plugin:@typescript-eslint/recommended",
+    "plugin:@tanstack/eslint-plugin-query/recommended"
   ],
   "plugins": ["@typescript-eslint", "react", "import", "react-perf"],
   "rules": {
     "indent": ["error", 2, { "SwitchCase": 1 }],
     "@typescript-eslint/array-type": ["error", { "default": "generic" }],
+    "@typescript-eslint/no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
     "linebreak-style": ["error", "unix"],
     "react/react-in-jsx-scope": "off",
     "quotes": ["error", "single"],
