@@ -1,4 +1,4 @@
-# EyeFind.info
+# Eyefind.info
 
 ## Introducción
 
