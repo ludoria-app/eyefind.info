@@ -1,4 +1,3 @@
-/* eslint-disable quotes */
 export const bleets = [
   {
     author: 'sarahboptician',

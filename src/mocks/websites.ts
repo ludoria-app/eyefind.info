@@ -1,4 +1,3 @@
-/* eslint-disable quotes */
 export const websites = [
   {
     name: 'Ludoria Pandora',
